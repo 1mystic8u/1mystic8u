@@ -1,21 +1,13 @@
-Hi there , I'm Atharv 
-**I'm interested in...**
-Exploring the world of data science and its applications
-Building impactful projects that address real-world challenges
+# 👋 Institute Account
 
-** I'm currently learning...**
-Data visualization and storytelling
-Fundamentals of data science
+This is my **official student account** for [IIT MADRAS BS IN DATA SCIENCE].
 
-️ I'm looking to collaborate on...
-Open-source data science projects that contribute to a sustainable future
-Exploring new datasets and uncovering hidden insights
-Learning from other aspiring data scientists
+## 🔗 Main GitHub Profile
 
-** How to reach me...**
-Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/atharv-khare-a10456274/
-** Pronouns:** they/them
+For my personal projects, contributions, and main portfolio, please visit:
 
-⚡ Fun fact: I believe a healthy mind leads to a healthy approach to data! I practice mindfulness to stay focused and learn effectively.
+### **[github.com/1mystic](https://github.com/1mystic)**
 
-P.S. This repository is a work in progress as I continue to explore the world of data science. Feel free to reach out and connect!
+---
+
+=> This account is used exclusively for coursework, academic projects, and institute related collaborations.
