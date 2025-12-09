@@ -1,6 +1,6 @@
 # 👋 Institute Account
 
-This is my **official student account** for [IIT MADRAS BS IN DATA SCIENCE].
+This is my **official student account** for IIT MADRAS BS IN DATA SCIENCE.
 
 ## 🔗 Main GitHub Profile
 
