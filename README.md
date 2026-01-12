@@ -10,4 +10,4 @@ For my personal projects, contributions, and main portfolio, please visit:
 
 ---
 
-=> This account is used exclusively for coursework, academic projects, and institute related collaborations.
+**This account is used exclusively for coursework, academic projects, and institute related collaborations.**
