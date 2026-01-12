@@ -1,0 +1,5 @@
+.github/workflows/
+# Optional: ignore other workspace files
+.DS_Store
+node_modules/
+.env
