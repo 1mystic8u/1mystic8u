@@ -2,11 +2,9 @@
 
 This is my **official student account** for IIT MADRAS BS IN DATA SCIENCE.
 
-## 🔗 Main GitHub Profile
+## My Main GitHub Profile - [github.com/1mystic](https://github.com/1mystic)
 
-For my personal projects, contributions, and main portfolio, please visit:
-
-### **[github.com/1mystic](https://github.com/1mystic)**
+For my personal projects, contributions, and main portfolio, please visit: **[github.com/1mystic](https://github.com/1mystic)**
 
 ---
 
